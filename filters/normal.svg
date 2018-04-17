@@ -1,0 +1,1794 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="365.59052mm"
+   height="370.63858mm"
+   viewBox="0 0 365.59052 370.63858"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="normal.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.64"
+     inkscape:cx="1664.3899"
+     inkscape:cy="866.54922"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1168"
+     inkscape:window-x="1920"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(136.32143,72.029476)">
+    [<g
+   id="g849"
+   transform="translate(12.095238,47.88837)">
+  <rect
+     y="37.292114"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect37"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text12"
+     y="51.110119"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="51.110119"
+       x="43.703793"
+       id="tspan10"
+       sodipodi:role="line">EntryCallSequence</tspan></text>
+  <text
+     id="text16"
+     y="43.928574"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="43.928574"
+       x="43.65522"
+       id="tspan14"
+       sodipodi:role="line">org.iobserve.analysis.traces</tspan></text>
+</g>
+
+    , <g
+   id="g4381"
+   transform="translate(-141.3631,55.653263)">
+  <rect
+     y="47.292114"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4371"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4375"
+     y="61.110119"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="61.110119"
+       x="43.703793"
+       id="tspan4373"
+       sodipodi:role="line">CollectUserSessionsFilter</tspan></text>
+  <text
+     id="text4379"
+     y="53.928574"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="53.928574"
+       x="43.65522"
+       id="tspan4377"
+       sodipodi:role="line">org.iobserve.analysis.session</tspan></text>
+</g>
+
+    , <g
+   id="g4393"
+   transform="translate(480.48835,98.947893)">
+  <rect
+     y="57.292114"
+     x="-2.7264187"
+     height="17.764885"
+     width="92.765335"
+     id="rect4383"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4387"
+     y="71.110123"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="71.110123"
+       x="43.703793"
+       id="tspan4385"
+       sodipodi:role="line">UserSessionModelAggregator</tspan></text>
+  <text
+     id="text4391"
+     y="63.928574"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="63.928574"
+       x="43.65522"
+       id="tspan4389"
+       sodipodi:role="line">org.iobserve.analysis.behavior.clustering.em</tspan></text>
+</g>
+
+    , <g
+   id="g4405"
+   transform="translate(123.47852,-121.3067)">
+  <rect
+     y="67.292114"
+     x="-17.693512"
+     height="17.764885"
+     width="123.23407"
+     id="rect4395"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4399"
+     y="81.110123"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="81.110123"
+       x="43.703793"
+       id="tspan4397"
+       sodipodi:role="line">DummyClassificationStage</tspan></text>
+  <text
+     id="text4403"
+     y="73.928574"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="73.928574"
+       x="43.65522"
+       id="tspan4401"
+       sodipodi:role="line">org.iobserve.analysis.behavior.clustering.similaritymatching</tspan></text>
+</g>
+
+    , <g
+   id="g4417"
+   transform="translate(122.40944,-42.482293)">
+  <rect
+     y="77.292114"
+     x="-16.624434"
+     height="17.764885"
+     width="120.82863"
+     id="rect4407"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4411"
+     y="91.110123"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="91.110123"
+       x="43.703793"
+       id="tspan4409"
+       sodipodi:role="line">ModelGenerationTransformation</tspan></text>
+  <text
+     id="text4415"
+     y="83.928574"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="83.928574"
+       x="43.65522"
+       id="tspan4413"
+       sodipodi:role="line">org.iobserve.analysis.behavior.clustering.similaritymatching</tspan></text>
+</g>
+
+    , <g
+   id="g4429"
+   transform="translate(122.40944,-123.54182)">
+  <rect
+     y="87.292114"
+     x="-16.624434"
+     height="17.764885"
+     width="121.0959"
+     id="rect4419"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4423"
+     y="101.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="101.11012"
+       x="43.703793"
+       id="tspan4421"
+       sodipodi:role="line">VectorizationStage</tspan></text>
+  <text
+     id="text4427"
+     y="93.928574"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="93.928574"
+       x="43.65522"
+       id="tspan4425"
+       sodipodi:role="line">org.iobserve.analysis.behavior.clustering.similaritymatching</tspan></text>
+</g>
+
+    , <g
+   id="g4441"
+   transform="translate(-294.82144,5.653279)">
+  <rect
+     y="97.292114"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4431"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4435"
+     y="111.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="111.11012"
+       x="43.703793"
+       id="tspan4433"
+       sodipodi:role="line">AllocationFinishedStage</tspan></text>
+  <text
+     id="text4439"
+     y="103.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="103.92857"
+       x="43.65522"
+       id="tspan4437"
+       sodipodi:role="line">org.iobserve.analysis.deployment</tspan></text>
+</g>
+
+    , <g
+   id="g4453"
+   transform="translate(88.824407,-22.111622)">
+  <rect
+     y="107.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4443"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4447"
+     y="121.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="121.11012"
+       x="43.703793"
+       id="tspan4445"
+       sodipodi:role="line">GeoLocation</tspan></text>
+  <text
+     id="text4451"
+     y="113.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="113.92857"
+       x="43.65522"
+       id="tspan4449"
+       sodipodi:role="line">org.iobserve.analysis.privacy</tspan></text>
+</g>
+
+    , <g
+   id="g4465"
+   transform="translate(395.74109,21.183013)">
+  <rect
+     y="117.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4455"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4459"
+     y="131.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="131.11012"
+       x="43.703793"
+       id="tspan4457"
+       sodipodi:role="line">TraceOperationCleanupFilter</tspan></text>
+  <text
+     id="text4463"
+     y="123.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="123.92857"
+       x="43.65522"
+       id="tspan4461"
+       sodipodi:role="line">org.iobserve.analysis.traces</tspan></text>
+</g>
+
+    , <g
+   id="g4477"
+   transform="translate(395.74109,28.947893)">
+  <rect
+     y="127.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4467"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4471"
+     y="141.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="141.11012"
+       x="43.703793"
+       id="tspan4469"
+       sodipodi:role="line">TranslateCallOperationEventsStage</tspan></text>
+  <text
+     id="text4475"
+     y="133.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="133.92857"
+       x="43.65522"
+       id="tspan4473"
+       sodipodi:role="line">org.iobserve.analysis.traces</tspan></text>
+</g>
+
+    , <g
+   id="g4489"
+   transform="translate(395.74109,-34.346763)">
+  <rect
+     y="137.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4479"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4483"
+     y="151.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="151.11012"
+       x="43.703793"
+       id="tspan4481"
+       sodipodi:role="line">TEntryEventSequence</tspan></text>
+  <text
+     id="text4487"
+     y="143.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="143.92857"
+       x="43.65522"
+       id="tspan4485"
+       sodipodi:role="line">org.iobserve.analysis.traces</tspan></text>
+</g>
+
+    , <g
+   id="g4501"
+   transform="translate(-110.54905,-166.60375)">
+  <rect
+     y="147.29211"
+     x="-6.4681921"
+     height="17.764877"
+     width="99.71434"
+     id="rect4491"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4495"
+     y="161.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="161.11012"
+       x="43.703793"
+       id="tspan4493"
+       sodipodi:role="line">TraceReconstructionFilter</tspan></text>
+  <text
+     id="text4499"
+     y="153.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="153.92857"
+       x="43.65522"
+       id="tspan4497"
+       sodipodi:role="line">org.iobserve.analysis.traces.traceReconstruction</tspan></text>
+</g>
+
+    , <g
+   id="g4513"
+   transform="translate(395.74109,-72.11164)">
+  <rect
+     y="157.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4503"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4507"
+     y="171.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="171.11012"
+       x="43.703793"
+       id="tspan4505"
+       sodipodi:role="line">TEntryCallSequenceWithPCM</tspan></text>
+  <text
+     id="text4511"
+     y="163.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="163.92857"
+       x="43.65522"
+       id="tspan4509"
+       sodipodi:role="line">org.iobserve.analysis.traces</tspan></text>
+</g>
+
+    , <g
+   id="g4525"
+   transform="translate(395.74109,6.712773)">
+  <rect
+     y="167.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4515"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4519"
+     y="181.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="181.11012"
+       x="43.703793"
+       id="tspan4517"
+       sodipodi:role="line">TSessionOperationsFilter</tspan></text>
+  <text
+     id="text4523"
+     y="173.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="173.92857"
+       x="43.65522"
+       id="tspan4521"
+       sodipodi:role="line">org.iobserve.analysis.clustering.shared</tspan></text>
+</g>
+
+    , <g
+   id="g4537"
+   transform="translate(-294.82144,-38.816967)">
+  <rect
+     y="177.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4527"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4531"
+     y="191.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="191.11012"
+       x="43.703793"
+       id="tspan4529"
+       sodipodi:role="line">AllocationVisualizationStage</tspan></text>
+  <text
+     id="text4535"
+     y="183.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="183.92857"
+       x="43.65522"
+       id="tspan4533"
+       sodipodi:role="line">org.iobserve.analysis.service.updater</tspan></text>
+</g>
+
+    , <g
+   id="g4549"
+   transform="translate(-64.633931,-31.052078)">
+  <rect
+     y="187.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4539"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4543"
+     y="201.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="201.11012"
+       x="43.703793"
+       id="tspan4541"
+       sodipodi:role="line">DeploymentVisualizationStage</tspan></text>
+  <text
+     id="text4547"
+     y="193.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="193.92857"
+       x="43.65522"
+       id="tspan4545"
+       sodipodi:role="line">org.iobserve.analysis.service.updater</tspan></text>
+</g>
+
+    , <g
+   id="g4561"
+   transform="translate(472.47026,-94.346776)">
+  <rect
+     y="197.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4551"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4555"
+     y="211.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="211.11012"
+       x="43.703793"
+       id="tspan4553"
+       sodipodi:role="line">UndeploymentVisualizationStage</tspan></text>
+  <text
+     id="text4559"
+     y="203.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="203.92857"
+       x="43.65522"
+       id="tspan4557"
+       sodipodi:role="line">org.iobserve.analysis.service.updater</tspan></text>
+</g>
+
+    , <g
+   id="g4573"
+   transform="translate(319.01192,-122.11164)">
+  <rect
+     y="207.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4563"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4567"
+     y="221.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="221.11012"
+       x="43.703793"
+       id="tspan4565"
+       sodipodi:role="line">SessionAcceptanceFilter</tspan></text>
+  <text
+     id="text4571"
+     y="213.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="213.92857"
+       x="43.65522"
+       id="tspan4569"
+       sodipodi:role="line">org.iobserve.analysis.session</tspan></text>
+</g>
+
+    , <g
+   id="g4585"
+   transform="translate(121.8749,-200.24717)">
+  <rect
+     y="217.29211"
+     x="-16.089895"
+     height="17.764877"
+     width="121.63046"
+     id="rect4575"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4579"
+     y="231.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="231.11012"
+       x="43.703793"
+       id="tspan4577"
+       sodipodi:role="line">BehaviorModelSink</tspan></text>
+  <text
+     id="text4583"
+     y="223.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="223.92857"
+       x="43.65522"
+       id="tspan4581"
+       sodipodi:role="line">org.iobserve.analysis.behavior.clustering.similaritymatching</tspan></text>
+</g>
+
+    , <g
+   id="g4597"
+   transform="translate(-218.09227,-106.58184)">
+  <rect
+     y="227.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4587"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4591"
+     y="241.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="241.11012"
+       x="43.703793"
+       id="tspan4589"
+       sodipodi:role="line">BehaviorModelSink</tspan></text>
+  <text
+     id="text4595"
+     y="233.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="233.92857"
+       x="43.65522"
+       id="tspan4593"
+       sodipodi:role="line">org.iobserve.analysis.sink</tspan></text>
+</g>
+
+    , <g
+   id="g4609"
+   transform="translate(123.74579,-255.77694)">
+  <rect
+     y="237.29211"
+     x="-17.960781"
+     height="17.764877"
+     width="122.69954"
+     id="rect4599"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4603"
+     y="251.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="251.11012"
+       x="43.703793"
+       id="tspan4601"
+       sodipodi:role="line">SessionToBehaviorModelTransformation</tspan></text>
+  <text
+     id="text4607"
+     y="243.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="243.92857"
+       x="43.65522"
+       id="tspan4605"
+       sodipodi:role="line">org.iobserve.analysis.behavior.clustering.similaritymatching</tspan></text>
+</g>
+
+    , <g
+   id="g4621"
+   transform="translate(124.01306,-248.01206)">
+  <rect
+     y="247.29211"
+     x="-18.228052"
+     height="17.764893"
+     width="122.96679"
+     id="rect4611"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4615"
+     y="261.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="261.11011"
+       x="43.703793"
+       id="tspan4613"
+       sodipodi:role="line">UserSessionOperationCleanupStage</tspan></text>
+  <text
+     id="text4619"
+     y="253.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="253.92857"
+       x="43.65522"
+       id="tspan4617"
+       sodipodi:role="line">org.iobserve.analysis.behavior.clustering.similaritymatching</tspan></text>
+</g>
+
+    , <g
+   id="g4633"
+   transform="translate(121.60763,-329.07159)">
+  <rect
+     y="257.29211"
+     x="-15.822626"
+     height="17.764893"
+     width="120.56138"
+     id="rect4623"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4627"
+     y="271.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="271.11011"
+       x="43.703793"
+       id="tspan4625"
+       sodipodi:role="line">GroupingBehaviorStage</tspan></text>
+  <text
+     id="text4631"
+     y="263.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="263.92859"
+       x="43.65522"
+       id="tspan4629"
+       sodipodi:role="line">org.iobserve.analysis.behavior.clustering.similaritymatching</tspan></text>
+</g>
+
+    , <g
+   id="g4645"
+   transform="translate(-2.2491843,-238.31725)">
+  <rect
+     y="267.29211"
+     x="-5.1318445"
+     height="17.764893"
+     width="97.041649"
+     id="rect4635"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4639"
+     y="281.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="281.11011"
+       x="43.703793"
+       id="tspan4637"
+       sodipodi:role="line">Refinement</tspan></text>
+  <text
+     id="text4643"
+     y="273.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="273.92859"
+       x="43.65522"
+       id="tspan4641"
+       sodipodi:role="line">org.iobserve.analysis.behavior.clustering.birch</tspan></text>
+</g>
+
+    , <g
+   id="g4657"
+   transform="translate(-1.4473755,-319.37681)">
+  <rect
+     y="277.29211"
+     x="-5.9336534"
+     height="17.764893"
+     width="98.912537"
+     id="rect4647"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4651"
+     y="291.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="291.11011"
+       x="43.703793"
+       id="tspan4649"
+       sodipodi:role="line">RebuildTree</tspan></text>
+  <text
+     id="text4655"
+     y="283.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="283.92859"
+       x="43.65522"
+       id="tspan4653"
+       sodipodi:role="line">org.iobserve.analysis.behavior.clustering.birch</tspan></text>
+</g>
+
+    , <g
+   id="g4669"
+   transform="translate(-2.2491843,-276.08214)">
+  <rect
+     y="287.29211"
+     x="-5.1318445"
+     height="17.764893"
+     width="97.308922"
+     id="rect4659"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4663"
+     y="301.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="301.11011"
+       x="43.703793"
+       id="tspan4661"
+       sodipodi:role="line">ClusterSelection</tspan></text>
+  <text
+     id="text4667"
+     y="293.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="293.92859"
+       x="43.65522"
+       id="tspan4665"
+       sodipodi:role="line">org.iobserve.analysis.behavior.clustering.birch</tspan></text>
+</g>
+
+    , <g
+   id="g4681"
+   transform="translate(-206.86695,-141.05208)">
+  <rect
+     y="297.29211"
+     x="-5.9336534"
+     height="17.764893"
+     width="98.110733"
+     id="rect4671"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4675"
+     y="311.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="311.11011"
+       x="43.703793"
+       id="tspan4673"
+       sodipodi:role="line">BuildCFTreeStage</tspan></text>
+  <text
+     id="text4679"
+     y="303.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="303.92859"
+       x="43.65522"
+       id="tspan4677"
+       sodipodi:role="line">org.iobserve.analysis.behavior.clustering.birch</tspan></text>
+</g>
+
+    , <g
+   id="g4693"
+   transform="translate(-3.0509927,-331.61192)">
+  <rect
+     y="307.29211"
+     x="-4.3300362"
+     height="17.764893"
+     width="98.377991"
+     id="rect4683"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4687"
+     y="321.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="321.11011"
+       x="43.703793"
+       id="tspan4685"
+       sodipodi:role="line">ClusterOnTree</tspan></text>
+  <text
+     id="text4691"
+     y="313.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="313.92859"
+       x="43.65522"
+       id="tspan4689"
+       sodipodi:role="line">org.iobserve.analysis.behavior.clustering.birch</tspan></text>
+</g>
+
+    , <g
+   id="g4705"
+   transform="translate(-218.09227,-178.81697)">
+  <rect
+     y="317.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4695"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4699"
+     y="331.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="331.11011"
+       x="43.703793"
+       id="tspan4697"
+       sodipodi:role="line">BehaviorModelTableGenerationStage</tspan></text>
+  <text
+     id="text4703"
+     y="323.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="323.92859"
+       x="43.65522"
+       id="tspan4701"
+       sodipodi:role="line">org.iobserve.analysis.behavior.filter</tspan></text>
+</g>
+
+    , <g
+   id="g4717"
+   transform="translate(472.47026,-188.817)">
+  <rect
+     y="327.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4707"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4711"
+     y="341.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="341.11011"
+       x="43.703793"
+       id="tspan4709"
+       sodipodi:role="line">UsageModelToBehaviorModelStage</tspan></text>
+  <text
+     id="text4715"
+     y="333.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="333.92859"
+       x="43.65522"
+       id="tspan4713"
+       sodipodi:role="line">org.iobserve.analysis.behavior.filter</tspan></text>
+</g>
+
+    , <g
+   id="g4729"
+   transform="translate(-141.3631,-252.11163)">
+  <rect
+     y="337.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4719"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4723"
+     y="351.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="351.11011"
+       x="43.703793"
+       id="tspan4721"
+       sodipodi:role="line">ClusterMerger</tspan></text>
+  <text
+     id="text4727"
+     y="343.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="343.92859"
+       x="43.65522"
+       id="tspan4725"
+       sodipodi:role="line">org.iobserve.analysis.behavior.filter</tspan></text>
+</g>
+
+    , <g
+   id="g4741"
+   transform="translate(549.19943,-262.11167)">
+  <rect
+     y="347.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4731"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4735"
+     y="361.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="361.11011"
+       x="43.703793"
+       id="tspan4733"
+       sodipodi:role="line">VectorQuantizationClusteringStage</tspan></text>
+  <text
+     id="text4739"
+     y="353.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="353.92859"
+       x="43.65522"
+       id="tspan4737"
+       sodipodi:role="line">org.iobserve.analysis.behavior.filter</tspan></text>
+</g>
+
+    , <g
+   id="g4753"
+   transform="translate(-218.09227,-272.11163)">
+  <rect
+     y="357.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4743"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4747"
+     y="371.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="371.11011"
+       x="43.703793"
+       id="tspan4745"
+       sodipodi:role="line">BehaviorModelCreationStage</tspan></text>
+  <text
+     id="text4751"
+     y="363.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="363.92859"
+       x="43.65522"
+       id="tspan4749"
+       sodipodi:role="line">org.iobserve.analysis.behavior.filter</tspan></text>
+</g>
+
+    , <g
+   id="g4765"
+   transform="translate(-218.09227,-264.34674)">
+  <rect
+     y="367.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4755"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4759"
+     y="381.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="381.11011"
+       x="43.703793"
+       id="tspan4757"
+       sodipodi:role="line">BehaviorModelPreparation</tspan></text>
+  <text
+     id="text4763"
+     y="373.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="373.92859"
+       x="43.65522"
+       id="tspan4761"
+       sodipodi:role="line">org.iobserve.analysis.behavior.filter</tspan></text>
+</g>
+
+    , <g
+   id="g4777"
+   transform="translate(-141.3631,-256.58186)">
+  <rect
+     y="377.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4767"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4771"
+     y="391.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="391.11011"
+       x="43.703793"
+       id="tspan4769"
+       sodipodi:role="line">CreateWekaInstancesStage</tspan></text>
+  <text
+     id="text4775"
+     y="383.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="383.92859"
+       x="43.65522"
+       id="tspan4773"
+       sodipodi:role="line">org.iobserve.analysis.behavior.filter</tspan></text>
+</g>
+
+    , <g
+   id="g4789"
+   transform="translate(319.01192,-284.34677)">
+  <rect
+     y="387.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4779"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4783"
+     y="401.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="401.11011"
+       x="43.703793"
+       id="tspan4781"
+       sodipodi:role="line">SessionOperationCleanupFilter</tspan></text>
+  <text
+     id="text4787"
+     y="393.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="393.92859"
+       x="43.65522"
+       id="tspan4785"
+       sodipodi:role="line">org.iobserve.analysis.behavior.filter</tspan></text>
+</g>
+
+    , <g
+   id="g4801"
+   transform="translate(165.55358,-312.11164)">
+  <rect
+     y="397.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4791"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4795"
+     y="411.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="411.11011"
+       x="43.703793"
+       id="tspan4793"
+       sodipodi:role="line">IObserveUIServerStage</tspan></text>
+  <text
+     id="text4799"
+     y="403.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="403.92859"
+       x="43.65522"
+       id="tspan4797"
+       sodipodi:role="line">org.iobserve.analysis.behavior.filter</tspan></text>
+</g>
+
+    , <g
+   id="g4813"
+   transform="translate(-64.633931,-286.58186)">
+  <rect
+     y="407.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4803"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4807"
+     y="421.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="421.11011"
+       x="43.703793"
+       id="tspan4805"
+       sodipodi:role="line">DensityClusteringStage</tspan></text>
+  <text
+     id="text4811"
+     y="413.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="413.92859"
+       x="43.65522"
+       id="tspan4809"
+       sodipodi:role="line">org.iobserve.analysis.behavior.filter</tspan></text>
+</g>
+
+    , <g
+   id="g4825"
+   transform="translate(-294.82144,-332.11162)">
+  <rect
+     y="417.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4815"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4819"
+     y="431.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="431.11011"
+       x="43.703793"
+       id="tspan4817"
+       sodipodi:role="line">AbstractBehaviorModelOutputSink</tspan></text>
+  <text
+     id="text4823"
+     y="423.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="423.92859"
+       x="43.65522"
+       id="tspan4821"
+       sodipodi:role="line">org.iobserve.analysis.sink</tspan></text>
+</g>
+
+    , <g
+   id="g4837"
+   transform="translate(472.47026,-342.11166)">
+  <rect
+     y="427.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4827"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4831"
+     y="441.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="441.11011"
+       x="43.703793"
+       id="tspan4829"
+       sodipodi:role="line">UndeploymentModelUpdater</tspan></text>
+  <text
+     id="text4835"
+     y="433.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="433.92859"
+       x="43.65522"
+       id="tspan4833"
+       sodipodi:role="line">org.iobserve.analysis.deployment</tspan></text>
+</g>
+
+    , <g
+   id="g4849"
+   transform="translate(-294.82144,-316.58186)">
+  <rect
+     y="437.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4839"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4843"
+     y="451.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="451.11011"
+       x="43.703793"
+       id="tspan4841"
+       sodipodi:role="line">AllocationStage</tspan></text>
+  <text
+     id="text4847"
+     y="443.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="443.92859"
+       x="43.65522"
+       id="tspan4845"
+       sodipodi:role="line">org.iobserve.analysis.deployment</tspan></text>
+</g>
+
+    , <g
+   id="g4861"
+   transform="translate(242.28275,-362.11164)">
+  <rect
+     y="447.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4851"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4855"
+     y="461.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="461.11011"
+       x="43.703793"
+       id="tspan4853"
+       sodipodi:role="line">NetworkLink</tspan></text>
+  <text
+     id="text4859"
+     y="453.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="453.92859"
+       x="43.65522"
+       id="tspan4857"
+       sodipodi:role="line">org.iobserve.analysis.deployment</tspan></text>
+</g>
+
+    , <g
+   id="g4873"
+   transform="translate(472.47026,-336.58189)">
+  <rect
+     y="457.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4863"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4867"
+     y="471.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="471.11011"
+       x="43.703793"
+       id="tspan4865"
+       sodipodi:role="line">UndeployPCMMapper</tspan></text>
+  <text
+     id="text4871"
+     y="463.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="463.92859"
+       x="43.65522"
+       id="tspan4869"
+       sodipodi:role="line">org.iobserve.analysis.deployment</tspan></text>
+</g>
+
+    , <g
+   id="g4885"
+   transform="translate(-64.633931,-328.81697)">
+  <rect
+     y="467.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4875"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4879"
+     y="481.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="481.11011"
+       x="43.703793"
+       id="tspan4877"
+       sodipodi:role="line">DeploymentModelUpdater</tspan></text>
+  <text
+     id="text4883"
+     y="473.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="473.92859"
+       x="43.65522"
+       id="tspan4881"
+       sodipodi:role="line">org.iobserve.analysis.deployment</tspan></text>
+</g>
+
+    , <g
+   id="g4897"
+   transform="translate(319.01192,-356.58188)">
+  <rect
+     y="477.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4887"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4891"
+     y="491.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="491.11011"
+       x="43.703793"
+       id="tspan4889"
+       sodipodi:role="line">SynthesizeAllocationEventStage</tspan></text>
+  <text
+     id="text4895"
+     y="483.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="483.92859"
+       x="43.65522"
+       id="tspan4893"
+       sodipodi:role="line">org.iobserve.analysis.deployment</tspan></text>
+</g>
+
+    , <g
+   id="g4909"
+   transform="translate(-64.633931,-313.2872)">
+  <rect
+     y="487.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4899"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4903"
+     y="501.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="501.11011"
+       x="43.703793"
+       id="tspan4901"
+       sodipodi:role="line">DeployPCMMapper</tspan></text>
+  <text
+     id="text4907"
+     y="493.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="493.92859"
+       x="43.65522"
+       id="tspan4905"
+       sodipodi:role="line">org.iobserve.analysis.deployment</tspan></text>
+</g>
+
+    , <g
+   id="g4921"
+   transform="translate(-64.633931,-412.11163)">
+  <rect
+     y="497.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4911"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4915"
+     y="511.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="511.11011"
+       x="43.703793"
+       id="tspan4913"
+       sodipodi:role="line">DeallocationStage</tspan></text>
+  <text
+     id="text4919"
+     y="503.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="503.92859"
+       x="43.65522"
+       id="tspan4917"
+       sodipodi:role="line">org.iobserve.analysis.deployment</tspan></text>
+</g>
+
+    , <g
+   id="g4933"
+   transform="translate(395.74109,-386.58188)">
+  <rect
+     y="507.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4923"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4927"
+     y="521.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="521.11011"
+       x="43.703793"
+       id="tspan4925"
+       sodipodi:role="line">TimeTriggerStage</tspan></text>
+  <text
+     id="text4931"
+     y="513.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="513.92859"
+       x="43.65522"
+       id="tspan4929"
+       sodipodi:role="line">org.iobserve.stages.source</tspan></text>
+</g>
+
+    , <g
+   id="g4945"
+   transform="translate(319.01192,-378.81699)">
+  <rect
+     y="517.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4935"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4939"
+     y="531.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="531.11011"
+       x="43.703793"
+       id="tspan4937"
+       sodipodi:role="line">SynthesizedTimeTriggerStage</tspan></text>
+  <text
+     id="text4943"
+     y="523.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="523.92859"
+       x="43.65522"
+       id="tspan4941"
+       sodipodi:role="line">org.iobserve.stages.source</tspan></text>
+</g>
+
+    ]
+  <g
+   id="g4453-6"
+   transform="translate(12.095238,-4.34674)">
+  <rect
+     y="107.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4443-3"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4447-2"
+     y="121.11012"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="121.11012"
+       x="43.703793"
+       id="tspan4445-0"
+       sodipodi:role="line">EntryCallStage</tspan></text>
+  <text
+     id="text4451-6"
+     y="113.92857"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="113.92857"
+       x="43.65522"
+       id="tspan4449-1"
+       sodipodi:role="line">org.iobserve.analysis.stages</tspan></text>
+</g>
+<g
+   id="g4921-1"
+   transform="translate(-64.633931,-394.34674)">
+  <rect
+     y="497.29211"
+     x="5.291667"
+     height="17.764883"
+     width="76.729172"
+     id="rect4911-5"
+     style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.5;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <text
+     id="text4915-9"
+     y="511.11011"
+     x="43.703793"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="511.11011"
+       x="43.703793"
+       id="tspan4913-4"
+       sodipodi:role="line">DecollectorStage</tspan></text>
+  <text
+     id="text4919-9"
+     y="503.92859"
+     x="43.65522"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;line-height:1.25;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+     xml:space="preserve"><tspan
+       style="stroke-width:0.26458332"
+       y="503.92859"
+       x="43.65522"
+       id="tspan4917-0"
+       sodipodi:role="line">org.iobserve.analysis.stages</tspan></text>
+</g>
+</g>
+</svg>
